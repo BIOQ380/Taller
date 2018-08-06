@@ -4,7 +4,7 @@
 
 ### Guías
 
-- **[Taller 01 - Bases de datos biológicas]()**
+- **[Taller 01 - Bases de datos biológicas](https://github.com/BIOQ380/Taller/blob/master/Taller_01.md)**
 
 ### Informes
 
@@ -12,7 +12,7 @@ Las guías contienen las instrucciones para desarrollar la actividad práctica. 
 
 El informe debe contener las preguntas indicadas en la guía y sus respectivas respuestas. Es una buena idea apoyar tus respuestas con evidencia, por ejemplo, una captura de pantalla que muestre el resultado que obtuviste al ejecutar un programa.
 
-Los informes de laboratorio deben ser enviados en un documento word, PDF, o Markdown por correo electrónico a los profesores ayudantes. **El plazo es hasta las 23:59 hrs del día lunes de la semana siguiente**.
+Los informes de laboratorio deben ser enviados en un documento word, PDF, o Markdown por correo electrónico a la profesora ayudante: kat.mendez@uandresbello.edu. **El plazo es hasta las 23:59 hrs del día lunes de la semana siguiente**.
 
 **Beneficio:** Si entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota. Puedes escribir documentos Markdown (.md) en un editor Markdown como [Editor.md](https://pandao.github.io/editor.md/en.html) y [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor). Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí en inglés](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
