@@ -4,19 +4,17 @@
 
 ### Guías
 
-#### 1. [Taller 01](https://github.com/BIOQ380/Taller/blob/master/Taller_01.md)
+- **[Taller 01 - Bases de datos biológicas]()**
 
-### Herramientas computacionales
+### Informes
 
-#### - [NCBI Genome Workbench](https://www.ncbi.nlm.nih.gov/tools/gbench/)
+Las guías contienen las instrucciones para desarrollar la actividad práctica. Además, incluyen varias preguntas que deben responder. Sus respuestas serán evaluadas, lo que junto con su nota de control de entrada, corresponderá a la nota de "Control".
 
-#### - [Primer3](http://primer3.ut.ee)
+El informe debe contener las preguntas indicadas en la guía y sus respectivas respuestas. Es una buena idea apoyar tus respuestas con evidencia, por ejemplo, una captura de pantalla que muestre el resultado que obtuviste al ejecutar un programa.
 
-#### - [AmplifX](http://en.bio-soft.net/pcr/AmplifX.html)
+Los informes de laboratorio deben ser enviados en un documento word, PDF, o Markdown por correo electrónico a los profesores ayudantes. **El plazo es hasta las 23:59 hrs del día lunes de la semana siguiente**.
 
-#### - [MEGA 7](https://www.megasoftware.net)
-
-#### - [Beast2](http://www.beast2.org)
+**Beneficio:** Si entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota. Puedes escribir documentos Markdown (.md) en un editor Markdown como [Editor.md](https://pandao.github.io/editor.md/en.html) y [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor). Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí en inglés](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ---
 
