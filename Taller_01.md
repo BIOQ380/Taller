@@ -2,7 +2,7 @@
 
 Dirígete a la página de **[NCBI Genome Workbench](https://www.ncbi.nlm.nih.gov/tools/gbench/)** y en **Downloads** haz clic en el link de tu sistema operativo para descargar e instalar **Genome Workbench** un software para analizar datos biológicos.
 
-#### NCBI Genome Workbench - Operaciones Básicas
+### NCBI Genome Workbench - Operaciones Básicas
 
 Ya teniendo el software funcionando, primero debemos familiarizarnos con la plataforma, para ello vamos a seguir uno de los tutoriales que son parte de la documentación de NCBI Genome Workbench. 
 
@@ -31,8 +31,8 @@ Para más detalles acerca de la nomenclatura de The Graphical View, puedes revis
 
 * Sigue con **Step 7: Navigating in the Graphical View** y **Step 8: Zoomed In Detail**. Prueba haciendo _zoom-in_ y _zoom-out_ en el visualizador, mientras más _zoom-in_ hagas podrás ver más características. Existen 2 "trucos" para hacer _zoom-in_ y _zoom-out_: (i) manteniendo la tecla `Z` y el clic derecho del _mouse_ presionados mientras mueves el _mouse_ arriba y abajo, (ii) mantener presionada la tecla `R` para seleccionar con el _mouse_ la región a la que quieres hacer _zoom_. Además, si posicionas el _mouse_ sobre una región de la secuencias (durante ~1s), aparecerá un recuadro amarillo con información sobre la secuencia en general y sobre la posición en específico que estás apuntando.
 
-#### NCBI Genome Workbench - Búsquedas Usando BLAST
+### NCBI Genome Workbench - Búsquedas Usando BLAST
 
 **[BLAST (Basic Local Alignment Search Tool)](https://blast.ncbi.nlm.nih.gov/Blast.cgi)** es una herramienta de búsqueda de similitud entre secuencias biológicas. Mediante un alineamiento local es capaz de encontrar regiones similares entre una secuencia problema y otras cientos/miles/millones de secuencias contenidas en una base de datos.
 
-#### NCBI Genome Workbench - Alineamiento Múltiple
+### NCBI Genome Workbench - Alineamiento Múltiple
