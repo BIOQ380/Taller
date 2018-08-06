@@ -4,7 +4,7 @@
 
 ### Guías
 
-#### 1. [Taller 01]()
+#### 1. [Taller 01](https://github.com/BIOQ380/Taller/blob/master/Taller_01.md)
 
 ### Herramientas computacionales
 
