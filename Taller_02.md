@@ -1,4 +1,4 @@
-# Laboratorio 02 - Alineamiento de secuencias ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/vertical-alignment.png?raw=true)
+# Taller 02 - Diseño de partidores y vectores de clonación ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/vertical-alignment.png?raw=true)
 
 #### En este laboratorio vamos a diseñar partidores para PCR y vectores de clonación. Sigue las instrucciones y responde las preguntas, entre `[]` se indica el puntaje asignado a cada pregunta. Tus respuestas van a formar parte de la nota de taller 02.
 
@@ -18,6 +18,8 @@ Ya llegaste a la última parte de este laboratorio. Aquí vamos a seleccionar la
 - Para este ejercicio necesitamos la **seceuncias codificante o Coding Sequence (CDS)**. Así que, en vez de hacer clic directamente en "FASTA", baja hasta el vínculo que dice **CDS**.
 - Una pequeña ventana va a aparecer, haz clic en *FASTA* y copia esa secuencia en un editor de texto.
 
+![sry_cds_fasta](https://github.com/BIOQ380/Taller/blob/master/images/sry_cds_fasta.png?raw=true)
+
 ##### Perfecto! ya estás listo para diseñar partidores para amplificar el gen SRY. Para hacerlo vamos a utilizar dos herramientas:
 
 ##### 1. [Primer3](http://primer3.ut.ee) provee de varias secuencias como posibles partidores. Se utiliza online.
@@ -28,7 +30,7 @@ Ya llegaste a la última parte de este laboratorio. Aquí vamos a seleccionar la
 
 ![amplifx](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/amplifx.png?raw=true)
 
-- Dirígete a la página de [Primer3](http://primer3.ut.ee) y copia y pega la secuencia codificantes del gen SRY de humano.
+- Dirígete a la página de [Primer3](http://primer3.ut.ee) y copia y pega la secuencia codificante del gen SRY de humano.
 - Haz clic en `Pick Primers`.
 - Al terminar, verás una página con los partidores propuestos. Tómate unos minutos para mirar los resultados.
 
@@ -60,8 +62,8 @@ Ya llegaste a la última parte de este laboratorio. Aquí vamos a seleccionar la
 
 **17.** Indica los partidores _forward_ y _reverse_ que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano. [5]
 
-**18.** ¿Cuál es el largo del amplicón? ¿Y la temperatura de _annealing_ sugerida? [3]
-	
+**18.** Para los partidores que escogiste ¿Cuál es el largo del amplicón que genera en PCR? ¿Y la temperatura de _annealing_ sugerida? [3]
+
 ---
 
 ##### No olvides enviar tu informe de laboratorio al correo electrónico de la profesora ayudante: kat.mendez@uandresbello.edu. Tienes plazo hasta las 23:59 hrs del día lunes de la semana siguiente.
