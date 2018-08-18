@@ -1,8 +1,8 @@
-# Taller 02 - Diseño de partidores y vectores de clonación ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/vertical-alignment.png?raw=true)
+# Taller 02 - Diseño de partidores y vectores de clonación ![](https://github.com/BIOQ380/Taller/blob/master/images/dna.png?raw=true)
 
 #### En este laboratorio vamos a diseñar partidores para PCR y vectores de clonación. Sigue las instrucciones y responde las preguntas, entre `[]` se indica el puntaje asignado a cada pregunta. Tus respuestas van a formar parte de la nota de taller 02.
 
-#### Parte 1: Diseño de partidores
+### Parte 1: Diseño de partidores
 
 Comencemos por ir a NCBI y buscar un gen de interés.
 
@@ -63,6 +63,10 @@ Ya llegaste a la última parte de este laboratorio. Aquí vamos a seleccionar la
 **17.** Indica los partidores _forward_ y _reverse_ que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano. [5]
 
 **18.** Para los partidores que escogiste ¿Cuál es el largo del amplicón que genera en PCR? ¿Y la temperatura de _annealing_ sugerida? [3]
+
+### Parte 2: Diseño de vectores de clonación
+
+
 
 ---
 
