@@ -36,7 +36,7 @@ Lo primero que debemos hacer, es cargar datos.
 
 ### Cargando el archivo NEXUS
 
-Lo primero es subir un alineamiento de nucleótidos. Vamos a trabajar con los datos ejemplo de BEAST, descarga el archivo `apes.nex` [aquí](). Este archivo contiene un alineamiento de las secuencias tRNA mitocondriales de 6 especies de primates - incluyendo un _outgroup_ - El inicio del archivo se ve así:
+Lo primero es subir un alineamiento de nucleótidos. Vamos a trabajar con los datos ejemplo de BEAST, descarga el archivo `apes.nex` [aquí](https://github.com/BIOQ380/Taller/blob/master/data/apes.nex). Este archivo contiene un alineamiento de las secuencias tRNA mitocondriales de 6 especies de primates - incluyendo un _outgroup_ - El inicio del archivo se ve así:
 
     #NEXUS
     

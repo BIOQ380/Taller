@@ -6,7 +6,9 @@
 
 - [Taller 01 - Bases de datos biológicas](https://github.com/BIOQ380/Taller/blob/master/Taller_01.md)
 
-- **[Taller 02 - Alineamiento de secuencias y diseño de partidores](https://github.com/BIOQ380/Taller/blob/master/Taller_02.md)**
+- [Taller 02 - Alineamiento de secuencias y diseño de partidores](https://github.com/BIOQ380/Taller/blob/master/Taller_02.md)
+
+- **[Taller 03 - Filogenética Molecular](https://github.com/BIOQ380/Taller/blob/master/Taller_03.md)**
 
 ### Informes
 
