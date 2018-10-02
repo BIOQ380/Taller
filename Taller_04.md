@@ -21,6 +21,10 @@ Antes de comenzar, debemos conocer e instalar **IGV (_Integrative Genomics Viewe
 - [`NA12878_wgs_20.bam`](https://www.dropbox.com/s/0qoudc588jbpoqj/NA12878_wgs_20.bam?dl=0) & [`NA12878_wgs_20.bai`](https://www.dropbox.com/s/zjzs9pdmkwed2jg/NA12878_wgs_20.bai?dl=0)
 - [`NA12878.vcf`](https://www.dropbox.com/s/46yko76zecjwic5/NA12878.vcf?dl=0) & [`NA12878.vcf.idx`](https://www.dropbox.com/s/12i8fzod36rv47l/NA12878.vcf.idx?dl=0)
 
+**Tarea**:
+
+- [NA12877.vcf](https://www.dropbox.com/s/vydmq4aaubt41bq/NA12877.vcf?dl=0) & [NA12877.vcf.idx](https://www.dropbox.com/s/811am9v6vrmss1g/NA12877.vcf.idx?dl=0)
+
 ### 1. Genoma de referencia: hg19
 
 Vamos a utilizar el genoma de referencia de humano versión hg19. En particular, vamos a trabajar con el cromosoma 20.
