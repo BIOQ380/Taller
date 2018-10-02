@@ -8,7 +8,9 @@
 
 - [Taller 02 - Alineamiento de secuencias y diseño de partidores](https://github.com/BIOQ380/Taller/blob/master/Taller_02.md)
 
-- **[Taller 03 - Filogenética Molecular](https://github.com/BIOQ380/Taller/blob/master/Taller_03.md)**
+- [Taller 03 - Filogenética Molecular](https://github.com/BIOQ380/Taller/blob/master/Taller_03.md)
+
+- **[Taller 04 - Mapeo de _reads_ y búsqueda de variantes]()**
 
 ### Informes
 
