@@ -10,7 +10,7 @@
 
 - [Taller 03 - Filogenética Molecular](https://github.com/BIOQ380/Taller/blob/master/Taller_03.md)
 
-- **[Taller 04 - Mapeo de _reads_ y búsqueda de variantes]()**
+- **[Taller 04 - Mapeo de _reads_ y búsqueda de variantes](https://github.com/BIOQ380/Taller/blob/master/Taller_04.md)**
 
 ### Informes
 
