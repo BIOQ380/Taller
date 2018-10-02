@@ -81,7 +81,9 @@ Perfecto! Ya tenemos el "mapa" de todas las _reads_ alineadas en contra del geno
 
 ![coords_vcf](https://github.com/BIOQ380/Taller/blob/master/images/coords_vcf.png?raw=true)
 
+A partir del archivo de alineamiento, "NA12878_wgs_20.bam", podemos identificar diferencias entre las secuencias de la muestra NA12878 y el genoma de referencia, tales como _mismatch_, inserciones, y deleciones. Sin embargo, no todas ellas representan variantes. ¿Por qué? Observa las diferencias entre un _mismatch_ puntual en algun _read_ versus un _mismatch_ representado por todos los _reads_ en la posición en la que este se encuentra.
 
+El archivo "NA12878.vcf", nos informa de las variantes (i.e., SNPs, inserciones, y deleciones) presentes en la muestra en comparación con el genoma de referencia.
 
 ##### No olvides enviar tu informe de laboratorio al correo electrónico de la profesora ayudante: kat.mendez@uandresbello.edu. Tienes plazo hasta las 23:59 hrs del día lunes de la semana siguiente.
 
