@@ -2,7 +2,7 @@
 
 ##### En este taller vamos a explorar el mapeo de fragmentos de ADN en contra de una referencia para la búsqueda de variantes usando IGV.
 
-Antes de comenzar, debemos conocer e instalar **IGV (_Integrative Genomics Viewer_)**, un software popular para la visualización de datos genómicos.
+Antes de comenzar, debemos conocer e instalar **IGV (_Integrative Genomics Viewer_)**, un software popular para la visualización de datos genómicos. Además, de descargar los datos ejemplo del taller.
 
 * Dirígete a la [página de IGV](http://software.broadinstitute.org/software/igv/home).
 
@@ -15,6 +15,11 @@ Antes de comenzar, debemos conocer e instalar **IGV (_Integrative Genomics Viewe
 * Abre IGV.
 
 ![igv_inicio](https://github.com/BIOQ380/Taller/blob/master/images/igv_inicio.png?raw=true)
+
+**Descarga los datos ejemplo en los links a continuación**:
+
+- [`NA12878_wgs_20.bam`](https://www.dropbox.com/s/0qoudc588jbpoqj/NA12878_wgs_20.bam?dl=0) & [`NA12878_wgs_20.bai`](https://www.dropbox.com/s/zjzs9pdmkwed2jg/NA12878_wgs_20.bai?dl=0)
+- [`NA12878.vcf`](https://www.dropbox.com/s/46yko76zecjwic5/NA12878.vcf?dl=0) & [`NA12878.vcf.idx`](https://www.dropbox.com/s/12i8fzod36rv47l/NA12878.vcf.idx?dl=0)
 
 ### 1. Genoma de referencia: hg19
 
