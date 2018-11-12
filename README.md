@@ -12,7 +12,7 @@
 
 - [Taller 04 - Mapeo de _reads_ y búsqueda de variantes](https://github.com/BIOQ380/Taller/blob/master/Taller_04.md)
 
-- **[Taller 05 - Metagenómica]()**
+- **[Taller 05 - Metagenómica](https://github.com/BIOQ380/Taller/blob/master/Taller_05.md)**
 
 ### Informes
 
