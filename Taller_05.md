@@ -14,11 +14,13 @@ Es importante que descargues la carpeta completa, y que esta tenga el nombre "Ta
 
 ![inicio](https://github.com/BIOQ380/Taller/blob/master/images/taller_metagenomica_inicio.png?raw=true)
 
-##### Este documento es el tutorial para el taller 05 del curso que se desarrollará durante dos semanas en dos partes principales, cada una con su nota:
+* Lee el tutorial cuidadosamente y sigue las indicaciones. Primero, para instalar y conocer R y RStudio. Segundo, para familiarizarte con R aprendiendo algunas operaciones básicas de manejo de datos. Y finalmente, para procesar y analizar datos metagenómicos.
 
-##### 1era semana: Seguir el tutorial para desarrollar los puntos 1, 2, 3, y 4 completos. Esta parte será evaluada en clases y con la revisión del _script_ comentado que cada estudiante debe escribir con su trabajo de los puntos 2, 3, y 4.
+**Este documento es el tutorial para el taller 05 del curso que se desarrollará durante dos semanas en dos partes principales (dos notas)**:
 
-##### 2da semana:
+- **1era semana**: Seguir el tutorial para desarrollar los puntos 1, 2, 3, y 4 completos. Esta parte será evaluada en clases y con la revisión del _script_ comentado que cada estudiante debe escribir con su trabajo de los puntos 2, 3, y 4.
+
+- **2da semana**:
 
 ---
 
