@@ -1,4 +1,4 @@
-# ![](https://github.com/BIOQ380/Syllabus/blob/master/images/laptop.png?raw=true) Taller
+# ![](https://github.com/BIOQ380/Taller/blob/master/images/laptop.png?raw=true) Taller
 
 ##### ¡Hola! Puedes revisar aquí las actividades prácticas del curso, como instrucciones, tutoriales, links y programas a utilizar.
 
@@ -10,7 +10,9 @@
 
 - [Taller 03 - Filogenética Molecular](https://github.com/BIOQ380/Taller/blob/master/Taller_03.md)
 
-- **[Taller 04 - Mapeo de _reads_ y búsqueda de variantes](https://github.com/BIOQ380/Taller/blob/master/Taller_04.md)**
+- [Taller 04 - Mapeo de _reads_ y búsqueda de variantes](https://github.com/BIOQ380/Taller/blob/master/Taller_04.md)
+
+- **[Taller 05 - Metagenómica]()**
 
 ### Informes
 
@@ -25,5 +27,5 @@ Los informes de laboratorio deben ser enviados en un documento word, PDF, o Mark
 ---
 
 <p align="center">
-<img width="50%" src="https://github.com/BIOQ380/Syllabus/blob/master/images/unab_cbib_horizontal.png?raw=true">
+<img width="50%" src="https://github.com/BIOQ380/Taller/blob/master/images/unab_cbib_horizontal.png?raw=true">
 </p>
