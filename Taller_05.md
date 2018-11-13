@@ -20,7 +20,7 @@ Es importante que descargues la carpeta completa, y que esta tenga el nombre "Ta
 
 - **1era semana**: Seguir el tutorial para desarrollar los puntos 1, 2, 3, y 4 completos. Esta parte será evaluada en clases y con la revisión del _script_ comentado que cada estudiante debe escribir con su trabajo de los puntos 2, 3, y 4.
 
-- **2da semana**:
+- **2da semana**: Seguir el tutorial para desarrollar los puntos 5, 6, y 7 completos. Esta parte será evaluada en clases y con la revisión de un informe en donde el/la estudiante debe incluir todas las figuras generedas en los análisis de los puntos 6 y 7 con una breve descripción de cada una de ellas. Esto, con los datos procesados por DADA2 y mothur comparando los resultados obtenidos por ambas metodologías.
 
 ---
 
